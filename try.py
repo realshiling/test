@@ -1,6 +1,2 @@
 #t
 print()
-
-
-
-test
